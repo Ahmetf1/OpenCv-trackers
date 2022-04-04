@@ -1,0 +1,3 @@
+/home/afa/GitHub/OpenCv-trackers/build/CMakeFiles/rebuild_cache.dir
+/home/afa/GitHub/OpenCv-trackers/build/CMakeFiles/edit_cache.dir
+/home/afa/GitHub/OpenCv-trackers/build/CMakeFiles/tracker.dir
